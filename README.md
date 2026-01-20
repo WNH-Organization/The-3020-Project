@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="docs/assets/banner.jpg">
+    <img src="docs/assets/banner.jpeg">
 
   ### *Turning a Travel Router into a Distributed Desktop*
 
