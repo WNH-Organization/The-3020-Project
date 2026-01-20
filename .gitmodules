@@ -1,0 +1,6 @@
+[submodule "nano"]
+	path = nano
+	url = git@github.com:WNH-Organization/3020-NANO.git
+[submodule "esp-vga"]
+	path = esp-vga
+	url = git@github.com:WNH-Organization/esp-VGA-Displayer.git
