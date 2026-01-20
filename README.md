@@ -1,7 +1,8 @@
 <div align="center">
-    <img src="docs/assets/banner.jpeg">
 
   ### *Turning a Travel Router into a Distributed Desktop*
+
+  <img src="docs/assets/banner.jpeg">
 
   **A distributed embedded system built around the TL-MR3020.**
 
